@@ -18,6 +18,5 @@ int is_positive_number(const char *str);
 char *_getenv(const char *name);
 int _setenv(char **args);
 int _unsetenv(char **args);
-
 #endif
 
